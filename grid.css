@@ -1,0 +1,20 @@
+#topcontainer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: left;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    background: #ffffff;
+}
+#t1{
+    margin-top: 20px;
+}
+.start-align{
+    text-align: left;
+}
+.last{
+    margin-top: 10px;
+}
+.last-align{
+    text-align: left;
+}

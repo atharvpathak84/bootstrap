@@ -1,0 +1,20 @@
+#first {
+    background-color: #f0f0f0; /* Set background color */
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+  }
+  
+  #topcontent {
+    font-size: 24px; /* Increase font size */
+  }
+  
+  .btn-primary {
+    width: 500px; /* Widen the button */
+  }
+
+#success{
+    width: 1000px;
+    margin-bottom: 20px;
+}
+
